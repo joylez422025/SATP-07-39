@@ -1,0 +1,5 @@
+{
+  "name": "SATP 07-39 Cambyretá - Seguimiento de Entregas",
+  "description": "Una aplicación para monitorear el estado de entrega de trabajos de las instituciones educativas dependientes del SATP 07-39 Cambyretá.",
+  "requestFramePermissions": []
+}
